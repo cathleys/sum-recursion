@@ -1,2 +1,3 @@
-- Visit the deployed site: [Sum Recursion]()
+- Visit the deployed site: [Sum Recursion](https://sum-recursion.netlify.app/)
+- https://sum-recursion.netlify.app/
 - Solving one of the most common JS coding challenge.
